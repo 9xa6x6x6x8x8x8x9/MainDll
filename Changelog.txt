@@ -1,2 +1,6 @@
+V0.2 :
+- Dll Testing
+- Fixes
+ 
 V0.1 :
 - Testing...
